@@ -1,4 +1,4 @@
-#CSA0605 - Design and Analysis of Algorithms
+# CSA0605 - Design and Analysis of Algorithms
 
 Name: Variganji Sumanth Babu
 
